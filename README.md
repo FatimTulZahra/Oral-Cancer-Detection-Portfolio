@@ -1,8 +1,35 @@
-# Oral-Cancer-Detection-Portfolio
-# 🩺 Oral Cancer Detection
+# 🩺 Oral Cancer Detection using Hybrid Parallel Deep Learning
 
-Research-based Hybrid Parallel Deep Learning Architecture for Early Oral Cancer Detection using Histopathological Images.
+A research-based Final Year Project focused on the classification of Oral Squamous Cell Carcinoma (OSCC) from histopathological tissue images.
 
-🚧 This repository showcases the project architecture, methodology, and results.
+## 🚀 Project Demo
 
-The complete implementation is currently private as the project is under active research and future development.
+![Demo](assets/demo.jpeg)
+
+---
+
+## Key Highlights
+
+- Hybrid Parallel Deep Learning Architecture
+- MTUNet++
+- Vision Transformer (ViT)
+- MeDSAN Attention Module
+- Histopathology Image Classification
+- Test Accuracy: **97.40%**
+
+---
+
+## Current Status
+
+🚧 This project is currently under active research and development.
+
+The complete source code, model weights, and dataset are not publicly available at this stage.
+
+---
+
+## Contact
+
+**Fatima Tul Zahra**
+
+**Email:** fatimatulzahra1719@gmail.com
+**Linkdin:**  https://www.linkedin.com/in/fatima-tul-zahra-ds/
